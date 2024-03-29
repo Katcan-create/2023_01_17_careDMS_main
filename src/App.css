@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+
+* {
+    font-family: 'Rubik', sans-serif;
+    /* font-family: 'Inter', sans-serif; */
+}
+
+body {
+    background-image: url(https://img.freepik.com/free-vector/gradient-white-monochrome-background_23-2149023436.jpg?w=740&t=st=1672971500~exp=1672972100~hmac=42cd84ed707b2bf1b95d8d71fb3a05fb279dff13792fe0d4c66a5ee0964e5ece);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
